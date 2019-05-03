@@ -14,6 +14,14 @@ export SP_TWITTER_ACCESSTOKEN=...
 export SP_TWITTER_ACCESSSECRET=...
 ```
 
++ Instala las librerías necesarias
+
+Las librerías están indicadas en el proyecto, sólo tienes que correr el siguiente comando:
+
+```
+go install "aquí va el nombre de la librería"
+```
+
 + Corre NSQ en una terminal
 
 ```
